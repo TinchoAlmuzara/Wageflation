@@ -3,7 +3,7 @@ This repository contains the Matlab and Stata scripts to reproduce all the calcu
 
 Reference: [Almuzara Martin](https://martinalmuzara.com/research.html), [Richard Audoly](https://raudoly.github.io) and [Davide Melcangi](https://sites.google.com/view/davide-melcangi/research), forthcoming: “[A Measure of Trend Wage Inflation.](https://onlinelibrary.wiley.com/doi/full/10.1002/jae.3126)” Journal of Applied Econometrics.
 
-The **description.pdf** file contains a detailed description of each file. 
+The file **description.pdf** contains a detailed description of each script. 
 
 The material is organized as follows:
   - The **scripts** directory contains the main files to replicate calculations, figures and tables in the paper.
